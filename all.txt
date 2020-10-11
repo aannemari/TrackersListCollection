@@ -180,6 +180,8 @@ https://w.wwwww.wtf:443/announce
 
 https://www.wareztorrent.com:443/announce
 
+https://tracker.exoticaz.to/1130318485856399913fd600769bd4e9/announce
+
 udp://104.238.198.186:8000/announce
 
 udp://107.150.14.110:6969/announce
